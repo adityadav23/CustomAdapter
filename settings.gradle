@@ -1,0 +1,2 @@
+rootProject.name = "custom array adapter 2"
+include ':app'
